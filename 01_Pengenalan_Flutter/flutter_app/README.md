@@ -30,11 +30,11 @@ mengkompilasi kode dari awal, tidak ada pintasan keyboard untuk ini, Anda
 harus menghentikan dan menjalankan kembali project (klik stop ke mudian run kembali).
 
 ### Documentation Flutter
-[Material App Class](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
-[Scaffold Class](https://api.flutter.dev/flutter/material/Scaffold-class.html)
-[Center Class](https://api.flutter.dev/flutter/widgets/Center-class.html)
-[Text Class](https://api.flutter.dev/flutter/widgets/Text-class.html)
+- [Material App Class](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+- [Scaffold Class](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [Center Class](https://api.flutter.dev/flutter/widgets/Center-class.html)
+- [Text Class](https://api.flutter.dev/flutter/widgets/Text-class.html)
 
 ### Package Flutter
-[Package Official](https://pub.dev)
-[Package Komunitas](https://flutterawesome.com)
+- [Package Official](https://pub.dev)
+- [Package Komunitas](https://flutterawesome.com)
