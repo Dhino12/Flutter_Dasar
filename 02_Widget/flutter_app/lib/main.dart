@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/ChangeText.dart';
+import 'package:flutter_app/Heading.dart';
 
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget{
-  final String _judul = ""; // ini adalah state
+
   @override
   Widget build(BuildContext context) {
 
@@ -16,7 +18,10 @@ class MyApp extends StatelessWidget{
       home: Scaffold(
         body:
         Center( // parent dari Button
-          child: Text("Hello World"), // child dari center
+          // child: Text("Hello World"), // child dari center
+          child: ChangeText( // mengubah widget text
+            text: "Hello World" // Ubah widget Heading ke ChangeText
+          ),
         ),
       ),
     );

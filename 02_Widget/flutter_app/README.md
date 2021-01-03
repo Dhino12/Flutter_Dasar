@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter_App
 
 A new Flutter application.
 
@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Stateless Widget
+StatelessWidget adalah widget yang nilai state-nya tidak dapat berubah (immutable) maka
+widget tersebut lebih bersifat statis dan memiliki interaksi yang terbatas.
+
+## StatefulWidget
+StatefulWidget ialah widget yang state-nya dapat berubah-
+ubah nilainya, yang berarti StatefulWidget bersifat dinamis dan memiliki interaksi yang tak
+terbatas.

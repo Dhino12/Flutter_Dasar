@@ -1,0 +1,23 @@
+/// Flutter code sample for TextField
+import 'package:flutter/material.dart';
+import 'package:flutter_app/TextFIelds.dart';
+
+void main() => runApp(MyApp());
+
+/// This is the main application widget.
+class MyApp extends StatelessWidget {
+  static const String _title = 'Flutter Code Sample';
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: _title,
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Widget Input'),
+        ),
+        body: TextFields(),
+      ),
+    );
+  }
+}
