@@ -35,7 +35,7 @@ class _MyStatefulWidgetState extends State<TextFields> {
                 builder: (BuildContext context) {
                   return AlertDialog(
                     title: const Text('Thanks!'),
-                    content: Text('You typed "$value".'),
+                    content: Text('You tyed "$value".'),
                     actions: <Widget>[
                       FlatButton(
                         onPressed: () {
